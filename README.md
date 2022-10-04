@@ -1,4 +1,4 @@
-# Exercício de React - Class components
+# Exercício de React - Class components (Solucionado)
 
 
 ## Getting Started with Create React App
